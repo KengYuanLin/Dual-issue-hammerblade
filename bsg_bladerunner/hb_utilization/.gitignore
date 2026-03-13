@@ -1,0 +1,7 @@
+*.pyc
+*.swp
+*.png
+*.svg
+*.pdf
+*.csv
+out/
